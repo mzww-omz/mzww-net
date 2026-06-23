@@ -6,17 +6,17 @@
 
 <div class="bgh">
     <main class="mx-auto max-w-2xl px-2">
-        <a aria-label="mzww.net" href="/"><h1 class="text-5xl md:text-7xl">mzww.net</h1></a>
-        <h2 class="text-2xl md:text-4xl text-stone-500">MZWW / tech enthusiast<br>I can speak English / Japanese</h2>
+        <a aria-label="mzww.net" href="/"><h1 class="text-5xl md:text-6xl">mzww.net</h1></a>
+        <h2 class="text-2xl md:text-2xl text-stone-500">MZWW / tech enthusiast<br>I can speak English / Japanese</h2>
 
-        <div class="text-xl md:text-2xl">
+        <div class="text-md md:text-md">
             Java / Python / JavaScript / Svelte
         </div>
-        <div class="text-2xl my-5">
+        <div class="text-md my-2">
             Hello, welcome to my website. <br>
             Contact me with Twitter!
         </div>
-        <div class="links my-5 mzlink">
+        <div class="links my-2 mzlink">
             $ cat links.txt<br>
             <Web linkColor="#000000" linkUrl="https://mzww.fanbox.cc/" linkText="Donate me" />
             <Web linkColor="#1D9BF0" linkUrl="https://x.com/mzwwnet" linkText="Twitter" />
